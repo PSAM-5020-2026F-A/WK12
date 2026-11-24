@@ -1,5 +1,5 @@
 {
-  "image": "ghcr.io/psam-5020-2026f-a/5020-utils:ml",
+  "image": "ghcr.io/psam-5020-2026f-a/5020-utils:nn",
   "hostRequirements": {
     "cpus": 2
   },
